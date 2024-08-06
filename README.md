@@ -1,1 +1,1 @@
-Author=THUSHAR-KUMAR
+Author is THUSHAR-KUMAR
